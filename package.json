@@ -1,0 +1,26 @@
+{
+  "name": "graphql-study",
+  "version": "1.0.0",
+  "description": "Repository for my personal study about GraphQL, Sequelize, Typescript and JWT.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinuehara/graphql-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinuehara/graphql-study/issues"
+  },
+  "homepage": "https://github.com/kevinuehara/graphql-study#readme",
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-clean": "0.3.2",
+    "gulp-typescript": "3.2.2",
+    "typescript": "2.5.3"
+  }
+}
